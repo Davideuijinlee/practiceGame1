@@ -1,0 +1,20 @@
+body{
+    margin: 0;
+}
+
+.gameRow{
+    height: 12vh;
+    width: 100%;
+    background-color: rgb(183, 111, 255);
+}
+
+.fireBallContainer{
+    width:10%;
+    height: 100%;
+    position: relative;
+    background-color: rgb(132, 132, 255);
+}
+
+.square{
+    
+}
